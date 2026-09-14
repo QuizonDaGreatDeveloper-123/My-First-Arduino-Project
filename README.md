@@ -15,11 +15,13 @@ Kinda nervous 'cuz it's my first time trying arduino but it's so satisfying when
 
 ## Version 1 - Messy wiring (Intentional)
 
-![Ver. 1 - Initial build - functional but messy wiring to test](Ver1.jpg)
+![Ver. 1](Ver1.jpg)
+*Ver. 1 - Initial build - functional but messy wiring to test*
 
 ## Version 2 - Cleaner version
 
-![Ver. 2 - Improved wire management](Ver2.jpg)
+![Ver. 2](Ver2.jpg)
+*Ver. 2 - Improved wire management*
 
 ## Things i learned:
 **Law of breadboard:**
