@@ -28,7 +28,7 @@ Law of breadboard {
   • No. 
   
   The logic is like this:
-  • A0-E0 and F0-J0, A1-E1 and F1-J1 and    so on
+  • A0-E0 and F0-J0, A1-E1 and F1-J1 and so on
 }
 
 
